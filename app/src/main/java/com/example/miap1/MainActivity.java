@@ -1,3 +1,8 @@
+/*
+* Agregado de cabecera
+*
+* */
+
 package com.example.miap1;
 
 import android.content.Intent;
